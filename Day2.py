@@ -1,23 +1,5 @@
 python
 #
-total__emails = 1000
-sent = 850
-failed = total__emails - sent
-succes__rate = (sent / total__emails) * 100
-print("success rate:", succes__rate, "%")
-print("failed rate:", 100 - succes__rate, "%")
-
-python
-#
-total_emails = 1000
-sent = 850
-failed = total_emails - sent
-succes_rate = (sent / total_emails) * 100
-print("success rate:", succes_rate, "%")
-print("failed rate:", 100 - succes_rate, "%")
-
-python
-#
 hourly_rate = 25
 hours_daily = 4
 days_per_month = 22
