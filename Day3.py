@@ -1,37 +1,4 @@
 python
-# 
-success_rate = 95
-if success_rate > 90:
-    print("Excellent Campaign.")
-elif success_rate > 70:
-    print("Good Campaign.")
-else:
-    print("Campaign Needs Improvement.")
-
-
-python
-# 
-success_rate = 80
-if success_rate > 90:
-    print("Excellent Campaign.")
-elif success_rate > 70:
-    print("Good Campaign.")
-else:
-    print("Campaign Needs Improvement.")
-
-
-python
-# 
-success_rate = 60
-if success_rate > 90:
-    print("Excellent Campaign.")
-elif success_rate > 70:
-    print("Good Campaign.")
-else:
-    print("Campaign Needs Improvement.")
-
-
-python
 #
 experience_month = 0
 
