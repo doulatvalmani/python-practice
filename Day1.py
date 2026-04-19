@@ -10,10 +10,3 @@ print("I live in:",city)
 print("My age is:",age)
 print("My hobby is:",hobby)
 print("My future goal is:",futuregoal)
-
-python
-# 
-campaign = "Welcome Email"
-emails = 500
-sender = "doulatvamani@gmail.com"
-print("Campaign:",campaign,"sending",emails,"emails from",sender)
