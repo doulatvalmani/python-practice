@@ -1,18 +1,5 @@
 python
 # 
-def send_welcome(name, email):
-    print(f"Welcome {name}!")
-    print(f"Sending to: {email}")
-    print("Thank you for subscribing!")
-    print(f"Dear {name}, we are glad to have you with us.")
-
-send_welcome("Ali", "ali@gmail.com")
-send_welcome("Sara", "sara@yahoo.com")
-send_welcome("Doulat", "doulat@gmail.com")
-
-
-python
-# 
 def campaign_report(campaign_name, total, bounced):
     # calculate delivered
     delivered = total - bounced
