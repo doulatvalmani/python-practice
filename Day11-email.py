@@ -1,4 +1,3 @@
-```python
 import smtplib
 from email.mime.text import MIMEText
 
@@ -24,4 +23,3 @@ try:
         print("Email sent successfully! Check your Gmail inbox!")
 except Exception as e:
     print(f"Error: {e}")
-```
